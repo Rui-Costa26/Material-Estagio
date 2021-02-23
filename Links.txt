@@ -1,0 +1,5 @@
+https://www.monterail.com/blog/elixir-phoenix-framework-tutorial
+
+https://hexdocs.pm/phoenix/installation.html#content
+
+https://www.youtube.com/watch?v=IEhwc2q1zG4
